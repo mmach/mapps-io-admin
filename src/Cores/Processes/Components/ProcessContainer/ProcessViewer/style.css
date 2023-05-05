@@ -1,0 +1,9 @@
+.react-contexify{
+    z-index: 1000;
+}
+.view-wrapper
+{
+    border: 1px solid var(--mapps-border-color-default);
+    box-shadow: var(--mapps-shadow_v3);
+}
+}
